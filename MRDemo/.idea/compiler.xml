@@ -6,15 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="hdfsdemo" />
         <module name="MRDemo" />
-        <module name="BookSalesAnalysis" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="BookSalesAnalysis" target="8" />
-      <module name="hdfsdemo" target="1.5" />
-      <module name="MRDemo" target="8" />
-    </bytecodeTargetLevel>
   </component>
 </project>

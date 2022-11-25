@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BookSalesAnalysis/BookSalesAnalysis.iml" filepath="$PROJECT_DIR$/BookSalesAnalysis/BookSalesAnalysis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MRDemo/MRDemo.iml" filepath="$PROJECT_DIR$/MRDemo/MRDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/RoadofStudyHadoop.iml" filepath="$PROJECT_DIR$/.idea/RoadofStudyHadoop.iml" />
       <module fileurl="file://$PROJECT_DIR$/HDFSDemo/hdfsdemo.iml" filepath="$PROJECT_DIR$/HDFSDemo/hdfsdemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/BookSalesAnalysis/src/main/main.iml" filepath="$PROJECT_DIR$/BookSalesAnalysis/src/main/main.iml" />

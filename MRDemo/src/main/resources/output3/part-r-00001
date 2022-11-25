@@ -1,0 +1,2 @@
+Bean{id='1', name='张三', sex='女', hobby='游戏', job='大数据'}	0
+Bean{id='3', name='王五', sex='女', hobby='Null', job='Java'}	1

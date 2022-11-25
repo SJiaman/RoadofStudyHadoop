@@ -1,0 +1,3 @@
+10	EmpBean{empno=7934, empname='MILLER', job='CLERK', leaderno=7782, enterdate='1982/1/23', sal=1300, comm=0, deptno=10}
+10	EmpBean{empno=7839, empname='KING', job='PRESIDENT', leaderno=-1, enterdate='1981/11/17', sal=5000, comm=0, deptno=10}
+10	EmpBean{empno=7782, empname='CLARK', job='MANAGER', leaderno=7839, enterdate='1981/6/9', sal=2450, comm=0, deptno=10}

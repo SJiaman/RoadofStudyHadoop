@@ -1,0 +1,5 @@
+20	EmpBean{empno=7788, empname='SCOTT', job='ANALYST', leaderno=7566, enterdate='1987/4/19', sal=3000, comm=0, deptno=20}
+20	EmpBean{empno=7566, empname='JONES', job='MANAGER', leaderno=7839, enterdate='1981/4/2', sal=2975, comm=0, deptno=20}
+20	EmpBean{empno=7876, empname='ADAMS', job='CLERK', leaderno=7788, enterdate='1987/5/23', sal=1100, comm=0, deptno=20}
+20	EmpBean{empno=7902, empname='FORD', job='ANALYST', leaderno=7566, enterdate='1981/12/3', sal=3000, comm=0, deptno=20}
+20	EmpBean{empno=7369, empname='SMITH', job='CLERK', leaderno=7902, enterdate='1980/12/17', sal=800, comm=0, deptno=20}
