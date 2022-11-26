@@ -1,6 +1,0 @@
-30	EmpBean{empno=7654, empname='MARTIN', job='SALESMAN', leaderno=7698, enterdate='1981/9/28', sal=1250, comm=1400, deptno=30}
-30	EmpBean{empno=7900, empname='JAMES', job='CLERK', leaderno=7698, enterdate='1981/12/3', sal=950, comm=0, deptno=30}
-30	EmpBean{empno=7698, empname='BLAKE', job='MANAGER', leaderno=7839, enterdate='1981/5/1', sal=2850, comm=0, deptno=30}
-30	EmpBean{empno=7521, empname='WARD', job='SALESMAN', leaderno=7698, enterdate='1981/2/22', sal=1250, comm=500, deptno=30}
-30	EmpBean{empno=7844, empname='TURNER', job='SALESMAN', leaderno=7698, enterdate='1981/9/8', sal=1500, comm=0, deptno=30}
-30	EmpBean{empno=7499, empname='ALLEN', job='SALESMAN', leaderno=7698, enterdate='1981/2/20', sal=1600, comm=300, deptno=30}
