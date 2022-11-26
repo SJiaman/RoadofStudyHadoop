@@ -11,6 +11,7 @@
         <option value="$PROJECT_DIR$/MRDemo/pom.xml" />
         <option value="$PROJECT_DIR$/ZookeeperDemo/pom.xml" />
         <option value="$PROJECT_DIR$/HbaseDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/KafakaDemo/pom.xml" />
       </list>
     </option>
   </component>
